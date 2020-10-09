@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>cadeado.png</file>
+    <file>usuario.png</file>
+  </qresource>
+</RCC>
