@@ -1,13 +1,37 @@
-![Github language count](https://img.shields.io/github/languages/top/almeida-matheus/gerenciador-de-contas)
-## PROJETO
+## project
 
-O projeto consiste basicamente em um programa para criar usuários para terem acesso ao gerenciador de contas, que serve para salvar o usuario/e-mail e senha de uma determinada plataforma
+### passwordGenerator-parser.py
 
-![interface](https://github.com/almeida-matheus/gerenciador-de-contas/blob/master/images/interface.png)
+generate your new password by passing the arguments: letters quantity, numbers quantity and special characters quantity
 
-| biblioteca | finalidade                      |  
-| :------:   | :-------                        |
-| sqlite3    | criar o banco de dados          |   
-| bcrypt     | encriptar as senhas             |         
-| getpass    | senha invisível enquanto digita |
-| re         | procurar caracteres na senha    |
+![passwordGenerator1](https://github.com/almeida-matheus/password_manager/blob/master/assets/passwordGenerator1.png)
+
+### userManager-db.py
+
+manage the user who allows to use passwordManager.py
+
+![passwordManager1](https://github.com/almeida-matheus/password_manager/blob/master/assets/passwordManager1.png)
+
+![passwordManager2](https://github.com/almeida-matheus/password_manager/blob/master/assets/passwordManager2.png)
+
+### passwordManager.py
+
+save your application login, username/email and password
+
+![userManager-db1](https://github.com/almeida-matheus/password_manager/blob/master/assets/userManager-db1.png)
+
+![userManager-db2](https://github.com/almeida-matheus/password_manager/blob/master/assets/userManager-db2.png)
+
+## libraries
+
+```
+pip install -r requirements.txt
+```
+
+- sqlite3
+- bcrypt
+- getpass
+- re
+- string
+- random
+- argparse
