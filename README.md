@@ -8,19 +8,19 @@ generate your new password by passing the arguments: letters quantity, numbers q
 
 ### userManager-db.py
 
-manage the user who allows to use passwordManager.py
+manage the users who allows to use passwordManager.py
 
-![passwordManager1](https://github.com/almeida-matheus/password_manager/blob/master/assets/passwordManager1.png)
+![userManager-db1](https://github.com/almeida-matheus/password_manager/blob/master/assets/userManager-db1.png)
 
-![passwordManager2](https://github.com/almeida-matheus/password_manager/blob/master/assets/passwordManager2.png)
+![userManager-db2](https://github.com/almeida-matheus/password_manager/blob/master/assets/userManager-db2.png)
 
 ### passwordManager.py
 
 save your application login, username/email and password
 
-![userManager-db1](https://github.com/almeida-matheus/password_manager/blob/master/assets/userManager-db1.png)
+![passwordManager1](https://github.com/almeida-matheus/password_manager/blob/master/assets/passwordManager1.png)
 
-![userManager-db2](https://github.com/almeida-matheus/password_manager/blob/master/assets/userManager-db2.png)
+![passwordManager2](https://github.com/almeida-matheus/password_manager/blob/master/assets/passwordManager2.png)
 
 ## libraries
 
