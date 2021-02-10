@@ -1,6 +1,6 @@
 ## project
 
-### passwordGenerator-parser.py
+### passwordGenerator.py
 
 generate your new password by passing the arguments: letters quantity, numbers quantity and special characters quantity
 
@@ -32,6 +32,5 @@ pip install -r requirements.txt
 - bcrypt
 - getpass
 - re
-- string
 - random
 - argparse
